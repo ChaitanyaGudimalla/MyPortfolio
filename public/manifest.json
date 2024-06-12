@@ -1,5 +1,5 @@
 {
-  "name": "Chaytu's Portfolio",
+  "name": "App",
   "icons": [
     {
       "src": "/icons/android-icon-36x36.png",
@@ -20,7 +20,7 @@
       "density": "1.5"
     },
     {
-      "src": "/icons/android-icon-96x96.png",
+      "src": "/android-icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png",
       "density": "2.0"
