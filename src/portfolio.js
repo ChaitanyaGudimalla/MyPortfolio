@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Chaitanya Gudimalla Portfolio",
     type: "website",
-    url: "http://ChaitanyaGudimalla.com/",
+    url: "http://ChaitanyaGudimalla.com",
   },
 };
 
@@ -71,8 +71,8 @@ const skills = {
       skills: [
         "⚡ Led complex data analysis using Apache Superset & Trino, leveraging strong analytical & quantitative skills to extract actionable insights for stakeholders",
         "⚡ Collaborated on Data & Analytics process optimization, resulting in 90% efficiency gains and enhanced data integrity through standardized workflows",
-        "⚡ Championed data accuracy across platforms, implementing corrective measures and meticulous data hygiene practices to ensure data integrity",              
-              ],
+        "⚡ Championed data accuracy across platforms, implementing corrective measures and meticulous data hygiene practices to ensure data integrity",
+      ],
       softwareSkills: [
         {
           skillName: "Apache Superset",
@@ -116,7 +116,7 @@ const skills = {
         "⚡ Proficient in R12, with strong financial and accounting knowledge for optimized processes.",
         "⚡ Managed complex systems, bridged backend systems with user-friendly interfaces, and optimized database performance through SQL querying.",
         "⚡ Established a central invoice repository, ensured accurate reconciliations, and provided exceptional customer support for AR, AP, and OM inquiries.",
-              ],
+      ],
       softwareSkills: [
         {
           skillName: "Oracle ERP R12",
@@ -141,19 +141,19 @@ const skills = {
             backgroundColor: "transparent",
             color: "#217346",
           },
+        },
+        {
+          skillName: "Microsoft word",
+          fontAwesomeClassname: "file-icons:microsoft-word",
+          style: {
+            backgroundColor: "transparent",
+            color: "#217346",
           },
-          {
-            skillName: "Microsoft word",
-            fontAwesomeClassname: "file-icons:microsoft-word",
-            style: {
-              backgroundColor: "transparent",
-              color: "#217346",
-            },
         },
       ],
     },
   ],
- };
+};
 
 // Education Page
 const competitiveSites = {
@@ -261,7 +261,7 @@ const experience = {
           duration: "Jul 2019 - Aug 2022",
           location: "Chennai, TN, India",
           description:
-          "Optimized Oracle O2C and P2P processes, managed financial operations, and provided support for AR, AP, and OM modules, leveraging SQL and ERP R12 expertise. Ensured seamless transitions during system upgrades and maintained high accuracy in month-end reconciliations and financial reporting.",
+            "Optimized Oracle O2C and P2P processes, managed financial operations, and provided support for AR, AP, and OM modules, leveraging SQL and ERP R12 expertise. Ensured seamless transitions during system upgrades and maintained high accuracy in month-end reconciliations and financial reporting.",
           color: "#000000",
         },
       ],
