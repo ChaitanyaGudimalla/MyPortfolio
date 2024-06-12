@@ -26,7 +26,7 @@ const greeting = {
     "A dedicated and forward-thinking individual committed to creating impactful solutions. I am passionate about working on projects that contribute to the development of sustainable and scalable social and technical systems, aiming to make a positive difference in the world.",
   resumeLink:
     "https://docs.google.com/document/d/1amv-tUyjmOtwX4D3sy9rOjvBQ1we30mo/edit?usp=drive_link&ouid=114520522104835912108&rtpof=true&sd=true",
-  portfolio_repository: "https://github.com/ChaitanyaGudimalla/Porfolio",
+  portfolio_repository: "https://github.com/ChaitanyaGudimalla/MyPorfolio",
   githubProfile: "https://github.com/ChaitanyaGudimalla",
 };
 
