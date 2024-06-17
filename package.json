@@ -2,7 +2,7 @@
   "private": true,
   "name": "Chaytus Realm",
   "version": "0.1.0",
-  "homepage": "https://ChaitanyaGudimalla.github.io",
+  "homepage": "https://ChaitanyaGudimalla.github.io/MyPortfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
