@@ -50,7 +50,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Portfolio",
       "createdAt": "Jun-2024",
-      "url": "https://github.com/ChaitanyaGudimalla/Porfolio.git",
+      "url": "https://github.com/ChaitanyaGudimalla/MyPortfolio.git",
       "description": "My Portfolio",
       "isFork": false,
       "languages": [
@@ -72,7 +72,6 @@
         }
       ]
     },
-    
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "GitHub Intro for Beginners",

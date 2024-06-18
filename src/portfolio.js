@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Chaitanya Gudimalla Portfolio",
     type: "website",
-    url: "https://github.com/ChaitanyaGudimalla/MyPortfolio",
+    url: "https://github.com/ChaitanyaGudimalla/MyPortfolio/",
   },
 };
 
@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Chaitanya Gudimalla",
   logo_name: "ChaitanyaGudimalla",
-  nickname: "QueryQueen",
+  nickname: "",
   subTitle:
     "A dedicated and forward-thinking individual committed to creating impactful solutions. I am passionate about working on projects that contribute to the development of sustainable and scalable social and technical systems, aiming to make a positive difference in the world.",
   resumeLink:
