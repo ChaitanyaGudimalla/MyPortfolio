@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Chaitanya Gudimalla Portfolio",
     type: "website",
-    url: "https://ChaitanyaGudimalla.github.io/MyPortfolio",
+    url: "https://github.com/ChaitanyaGudimalla/MyPortfolio",
   },
 };
 
