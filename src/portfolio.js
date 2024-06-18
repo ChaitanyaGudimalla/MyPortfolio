@@ -395,7 +395,7 @@ const contactPageData = {
     postalCode: "32765",
     streetAddress: "Cortona CV",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/1ApDrCdUqdi9Jdvg6",
+    location_map_link: "https://maps.app.goo.gl/vMtxkbRqx88DxqFv7",
   },
   phoneSection: {
     title: "",

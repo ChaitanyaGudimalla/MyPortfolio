@@ -14,9 +14,9 @@ export default class Error extends Component {
         <Header theme={this.props.theme} />
         <div className="error-class">
           <Fade bottom duration={2000} distance="40px">
-            <h1>Woops</h1>
-            <h1 className="error-404">404</h1>
-            <p>The requested page is unavailable at the moment!</p>
+            <h1>Hola!</h1>
+            <h1 className="error-404">Welcome</h1>
+            <p>I'm excited to share my work with you!</p>
             <Link
               className="main-button"
               to="/home"
@@ -27,7 +27,7 @@ export default class Error extends Component {
                 display: "inline-flex",
               }}
             >
-              Go Home
+              Explore
             </Link>
           </Fade>
         </div>
